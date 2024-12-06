@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "./document-qa-app"
+		},
+		{
+			"path": "chroma-mgr"
+		}
+	],
+	"settings": {
+		"cSpell.words": [
+			"AIAPI",
+			"documentloaders",
+			"textsplitter",
+			"vectorstore"
+		]
+	}
+}
